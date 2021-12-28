@@ -8,6 +8,7 @@ namespace RepositoryCheckSample.Controllers
 {
     public class HomeController : Controller
     {
+        //home controller
         public ActionResult Index()
         {
             return View();
